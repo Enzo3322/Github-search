@@ -121,7 +121,7 @@ function App() {
 			) : (
 				''
 			)}
-			<footer>Developed by Enzo Spagnolli ✌️</footer>
+			
 		</main>
 	);
 }
