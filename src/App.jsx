@@ -10,8 +10,8 @@ import {
 	RiGitRepositoryCommitsLine,
 	RiUserFollowLine,
 	RiUserFollowFill,
-} from 'react-icons/Ri';
-import { MdOutlineBusiness } from 'react-icons/Md';
+} from 'react-icons/ri';
+import { MdOutlineBusiness } from 'react-icons/md';
 import './App.scss';
 import { formatDate } from './utils/formatDate';
 
